@@ -1,0 +1,19 @@
+{
+	"private": true,
+	"scripts": {
+		"build": "nuxt build",
+		"dev": "nuxt dev",
+		"generate": "nuxt generate",
+		"preview": "nuxt preview"
+	},
+	"devDependencies": {
+		"nuxt": "rc",
+		"nuxt-ionic": "^0.3.0"
+	},
+	"dependencies": {
+		"@ionic/core": "^6.2.2",
+		"@ionic/vue": "^6.2.2",
+		"date-and-time": "^2.4.1",
+		"dayjs": "^1.11.5"
+	}
+}
